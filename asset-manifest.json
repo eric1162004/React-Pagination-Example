@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/eric1162004/React-Pagination-Example.git/static/css/main.d498bfb3.chunk.css",
-    "main.js": "/eric1162004/React-Pagination-Example.git/static/js/main.2d85e8b1.chunk.js",
-    "main.js.map": "/eric1162004/React-Pagination-Example.git/static/js/main.2d85e8b1.chunk.js.map",
-    "runtime-main.js": "/eric1162004/React-Pagination-Example.git/static/js/runtime-main.5cd6363e.js",
-    "runtime-main.js.map": "/eric1162004/React-Pagination-Example.git/static/js/runtime-main.5cd6363e.js.map",
-    "static/js/2.dbb36bbe.chunk.js": "/eric1162004/React-Pagination-Example.git/static/js/2.dbb36bbe.chunk.js",
-    "static/js/2.dbb36bbe.chunk.js.map": "/eric1162004/React-Pagination-Example.git/static/js/2.dbb36bbe.chunk.js.map",
-    "index.html": "/eric1162004/React-Pagination-Example.git/index.html",
-    "precache-manifest.46df69ea048bf2a60d2ac00f281a7795.js": "/eric1162004/React-Pagination-Example.git/precache-manifest.46df69ea048bf2a60d2ac00f281a7795.js",
-    "service-worker.js": "/eric1162004/React-Pagination-Example.git/service-worker.js",
-    "static/css/main.d498bfb3.chunk.css.map": "/eric1162004/React-Pagination-Example.git/static/css/main.d498bfb3.chunk.css.map",
-    "static/js/2.dbb36bbe.chunk.js.LICENSE": "/eric1162004/React-Pagination-Example.git/static/js/2.dbb36bbe.chunk.js.LICENSE"
+    "main.css": "/React-Pagination-Example/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/React-Pagination-Example/static/js/main.fea56026.chunk.js",
+    "main.js.map": "/React-Pagination-Example/static/js/main.fea56026.chunk.js.map",
+    "runtime-main.js": "/React-Pagination-Example/static/js/runtime-main.ad8cb0bc.js",
+    "runtime-main.js.map": "/React-Pagination-Example/static/js/runtime-main.ad8cb0bc.js.map",
+    "static/js/2.dbb36bbe.chunk.js": "/React-Pagination-Example/static/js/2.dbb36bbe.chunk.js",
+    "static/js/2.dbb36bbe.chunk.js.map": "/React-Pagination-Example/static/js/2.dbb36bbe.chunk.js.map",
+    "index.html": "/React-Pagination-Example/index.html",
+    "precache-manifest.db74ca71206233c39480d3fed8fca947.js": "/React-Pagination-Example/precache-manifest.db74ca71206233c39480d3fed8fca947.js",
+    "service-worker.js": "/React-Pagination-Example/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/React-Pagination-Example/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.dbb36bbe.chunk.js.LICENSE": "/React-Pagination-Example/static/js/2.dbb36bbe.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.5cd6363e.js",
+    "static/js/runtime-main.ad8cb0bc.js",
     "static/js/2.dbb36bbe.chunk.js",
     "static/css/main.d498bfb3.chunk.css",
-    "static/js/main.2d85e8b1.chunk.js"
+    "static/js/main.fea56026.chunk.js"
   ]
 }
